@@ -15,3 +15,7 @@ spring:
   devtools:
     restart:
       enabled: true
+
+springdoc:
+  swagger-ui:
+    disable-swagger-default-url: true
